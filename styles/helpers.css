@@ -4,6 +4,12 @@
     width: 100%;
 }
 
+.spacer10 {
+    height: 10px;
+    width: 100%;
+}
+
+
 .anchor-link {
     text-decoration: none;
 
